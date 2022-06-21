@@ -1,0 +1,2 @@
+This is an Item based collaborative filtering recommendation engine project with a small fictional dataset that consist ratings on different books by the readers. 
+Numpy nad Panda packages are used for the analysis.  
